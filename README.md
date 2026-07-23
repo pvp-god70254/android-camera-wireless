@@ -15,6 +15,6 @@ Unfortunatly I only own one android device so I could only test this for the Sam
 
 VPN's ruin this version as this is the tcpip version and I do plan to make a wired version for a better camera
 
-[wired version](https://github.com/pvp-god70254/android-camera-wireless)
+[wired version](https://github.com/pvp-god70254/android-camera-wired)
 
 ### Thanks for using my project
