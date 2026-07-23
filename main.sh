@@ -22,8 +22,6 @@ camera () {
   scrcpy -s "$ip:$port" --list-cameras
   read -rp "Camera Id: " cameraId
   
-  
-  echo "This window cant use scrcpy in the background so closing the terminal will close the camera."
   echo "Press any key to continue.."
   read -rsn1
   clear
